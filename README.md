@@ -13,7 +13,7 @@ Today’s mini project was a fun and simple number guessing game built entirely 
 There's also a Reset button to generate a new random number.
 On the screenshot, you can see the correct number for demo purposes — but in the real version, it’s hidden using a custom cell format. 😉
 
-This one was a bit shorter than previous days due to other things happening — but still satisfying to complete a working game loop with basic logic, conditional feedback, and button controls.
+This one was a bit shorter than previous days, but still satisfying to complete a working game loop with basic logic, conditional feedback, and button controls.
 
 ✅ Skills Used:
 
